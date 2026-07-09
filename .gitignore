@@ -10,4 +10,4 @@ wheels/
 .venv
 
 # data path
-data/
+data
