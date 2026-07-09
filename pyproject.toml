@@ -6,4 +6,5 @@ readme = "README.md"
 requires-python = ">=3.10,<3.11"
 dependencies = [
     "numpy>=1.23.5,<2.0.0",
+    "nuscenes-devkit>=1.2.0",
 ]
